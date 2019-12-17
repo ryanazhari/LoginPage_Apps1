@@ -5,4 +5,4 @@ Membuat halaman login android menggunakan IDE Android Studio yang sebelumnya tel
 
 
 # UI Aplikasi menggunakan Adobe XD
-![Login@2x](https://user-images.githubusercontent.com/44089240/70962326-51b2d580-20b7-11ea-928f-f260849a51e5.png)
+![pre](https://user-images.githubusercontent.com/44089240/70962948-8d4e9f00-20b9-11ea-9bf7-d0243754cbcf.png)
